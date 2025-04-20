@@ -1,0 +1,39 @@
+.body{
+font-size: 30px;
+text-align: center;
+color: white;
+background-color: black;
+}
+h1{
+    font-size: 30px;
+    text-align: center;
+    color: yellow;
+    background-color: black;
+}
+table{
+    size: 15px;
+    color: white;
+    text-align: center;
+    border-collapse: collapse;
+    width: 500;
+    margin: 0 auto;
+    border: 1px solid brown;
+    background-color: black;
+}
+p{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    background-color: black;
+}
+.kosmos{
+    border: 10px solid yellow;
+    background-color: black;
+}
+.table{
+    border: 1px solid brown ;
+    background-color: black;
+}
+.zagadka{
+    border: 1px solid yellow;
+}
